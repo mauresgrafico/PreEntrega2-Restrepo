@@ -122,3 +122,13 @@ h1{
         padding: 20px; 
     }
 }
+
+.title-proyectos{
+    color: white;
+    font-size: calc(1rem + 0.8vw );
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-weight: bold;
+
+}
+
