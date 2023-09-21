@@ -76,6 +76,7 @@ h1{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-weight: bold;
+    align-content: center;
 
 }
 
@@ -130,5 +131,8 @@ h1{
     text-align: center;
     font-weight: bold;
 
+}
+.py-5{
+    margin: 70px 70px;
 }
 
