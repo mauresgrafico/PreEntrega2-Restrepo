@@ -88,10 +88,6 @@ h1{
 
 }
 
-.galeria{
-    margin: 50px;
-}
-
 .grid-container {
     display: grid;
     grid-template-columns: repeat(3, 1fr); 
