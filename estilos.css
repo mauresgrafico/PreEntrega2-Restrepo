@@ -1,0 +1,40 @@
+.Contenedor{
+    background-color: black;
+}
+
+
+.navbar-expand-lg .navbar-collapse{
+    justify-content: flex-end;
+}
+
+.nav-link{
+    padding: 2rem 5px;
+}
+
+h1{
+    font-weight: bold;
+    font-size: calc(2.375rem + 4.5vw);
+    line-height: 1;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.degrade{
+    background: linear-gradient(150deg, #574bcd 15%, #2999ad 30%, #41e976 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
+}
+
+.container-fluid{
+    margin: 100px 50px;
+}
+
+.col-sm{
+    border-radius: 10px;
+    margin: 50px 50px;
+    padding: 20px 20px;
+    background: linear-gradient(150deg, #574bcd 15%, #2999ad 30%, #41e976 100%)
+    
+}
