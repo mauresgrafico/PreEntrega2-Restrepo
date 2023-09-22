@@ -62,11 +62,18 @@ h1{
     
 }
 
+.card img{
+    width: 70px;
+    margin: auto;
+    padding-top: 20px;
+}
+
 .card-text{
     color: white;
     font-size: calc(0.5rem + 0.6vw );
     font-family: 'Montserrat', sans-serif;
     text-align: center;
+    line-height: 1.0;
 
 }
 
@@ -85,6 +92,7 @@ h1{
     font-size: calc(0,5rem + 0.8vw );
     font-family: 'Montserrat', sans-serif;
     text-align: left;
+    line-height: 1.5;
     
 
 }
@@ -134,5 +142,17 @@ h1{
 }
 .py-5{
     margin: 70px 70px;
+}
+
+p{
+    color: white;
+    font-size: calc(0,5rem + 0.8vw );
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    line-height: 1;
+}
+
+.row{
+    align-items: center;
 }
 
