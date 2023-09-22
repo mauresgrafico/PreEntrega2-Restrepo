@@ -2,7 +2,6 @@
     background-color: black;
 }
 
-
 .navbar-expand-lg .navbar-collapse{
     justify-content: flex-end;
 }
@@ -156,3 +155,7 @@ p{
     align-items: center;
 }
 
+.t2{
+    font-size: 100px;
+    margin-bottom: 90px ;
+}
