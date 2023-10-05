@@ -9,6 +9,7 @@
 .nav-link{
     padding: 2rem 5px;
 }
+/*index*/
 
 h1{
     font-weight: bold;
@@ -37,9 +38,7 @@ h1{
     
 }
 
-.container row{
-    margin-top: 50px;
-}
+
 
 .col-sm{
     border-radius: 10px;
@@ -51,6 +50,7 @@ h1{
 
 .card{
     background: linear-gradient(150deg, #574bcd 0%, #2999ad 50%, #41e976 100%);
+    padding: 50px;
 }
 
 .card-title{
@@ -116,6 +116,8 @@ h1{
     height: auto;
 }
 
+
+
 @media (max-width: 1200px) {
     .grid-container {
         grid-template-columns: repeat(2, 1fr); 
@@ -172,3 +174,25 @@ p{
     text-align: auto;
 
 }
+
+/*Proyectos*/
+
+.gallery-logo {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.gallery-logo img {
+    max-width: 100px; 
+    height: auto;
+    margin: 20px 50px;
+    
+}
+
+.txt-introducion{
+    justify-content: center;
+}
+
+/*Servicios*/
