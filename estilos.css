@@ -34,6 +34,7 @@ h1{
 
 .container-fluid{
     margin: 100px 50px;
+    
 }
 
 .container row{
@@ -149,14 +150,25 @@ p{
     font-family: 'Montserrat', sans-serif;
     text-align: left;
     line-height: 1;
+    
 }
 
 .row{
     align-items: center;
 }
 
-.t2{
+.titlle-2{
     font-size: 100px;
     margin-bottom: 90px ;
+    font-size: calc(2.375rem + 4.5vw);
 }
 
+.col-md-6{
+    padding: 30px;
+}
+
+.col-8{
+    padding: 20px;
+    text-align: auto;
+
+}
